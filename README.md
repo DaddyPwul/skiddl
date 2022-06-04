@@ -8,3 +8,5 @@ Then go to https://skribbl.io, click on the monkey icon thingy up there in the e
 Then click "Save and Close" and restart your browser (Just close & Reopen) and you should have the thing working! 
 
 Enjoy skiddles :)
+
+# I Will make a tutorial video (too lazy rn)
